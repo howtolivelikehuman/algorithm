@@ -1,4 +1,4 @@
-## 9-9 순위 검색 (프로그래머스 2021 KAKAO BLIND RECRUITMENT)
+## 9-10 합승 택시 요금 (프로그래머스 2021 KAKAO BLIND RECRUITMENT)
 
 #### 문제
 
