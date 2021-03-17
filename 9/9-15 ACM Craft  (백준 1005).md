@@ -14,7 +14,7 @@
 
 이 게임은 지금까지 나온 게임들과는 다르게 ACM크래프트는 다이나믹한 게임 진행을 위해 건물을 짓는 순서가 정해져 있지 않다. 즉, 첫 번째 게임과 두 번째 게임이 건물을 짓는 순서가 다를 수도 있다. 매 게임시작 시 건물을 짓는 순서가 주어진다. 또한 모든 건물은 각각 건설을 시작하여 완성이 될 때까지 Delay가 존재한다.
 
- 
+ ![img](https://blog.kakaocdn.net/dn/YZxb5/btq0kEKIyXH/fhhg1LMwHE67HapFEipVIk/img.jpg)
 
 위의 예시를 보자.
 
@@ -173,3 +173,4 @@ public class Main {
 
 #### 결과
 
+![img](https://blog.kakaocdn.net/dn/HwIxw/btq0oaouKE1/53b3Vvvjt811QlJKZMMb00/img.png)
